@@ -4,4 +4,4 @@ def merge_arrays(first, second):
     return sorted(set(first+second))
 
 
-print(merge_arrays([1, 3, 5], [2, 4, 6]))
+print(merge_arrays([1, 3, 5], [2, 4, 6, 3]))
