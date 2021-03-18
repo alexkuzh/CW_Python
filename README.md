@@ -1,4 +1,4 @@
-# [This Is My CodeWars](https://www.codewars.com/users/alexkuzhelev/stats) 
+# [This Is My CodeWars, Hakerrank, Leetcode,checkio etc](https://www.codewars.com/users/alexkuzhelev/stats) 
 ## Aleksandr Kuzhelev  
 ### Here are some kata and their solutions  
 ![My Range](https://www.codewars.com/users/alexkuzhelev/badges/large)  
