@@ -3,4 +3,5 @@ def findDigits(n):
     return len([x for x in str(n) if x != '0' and n % int(x) == 0])
 
 
-print(findDigits(123456789))
+# print(findDigits())
+print(11 if 11%2 else 11+1 )
