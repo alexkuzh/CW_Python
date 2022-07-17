@@ -13,4 +13,5 @@ def print_rangoli(size):
 
 print_rangoli(5)
 
-
+a = 1234
+print(', '.join("12345"))
