@@ -7,3 +7,5 @@ function alienLanguage(str){
     }
     return a.trim()
 }
+
+console.log(alienLanguage('asdsad asdasd'))
